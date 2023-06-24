@@ -1,4 +1,6 @@
 ### 👋 Hi there I'm Ardalan
+  [![Typing SVG](https://readme-typing-svg.demolab.com/👨‍💻+I'm+Front-end+developer=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 -👨‍💻 I'm Front-end developer
 - 👀 I’m interested in new technologys and i usually try to learn more thme 
 
