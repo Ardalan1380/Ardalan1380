@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ardalan
-- 👀 I’m interested in developing Front-End 
-- 🌱 I’m usually try to learning more technology
+### 👋 Hi there I'm Ardalan
+-👨‍💻 I'm Front-end developer
+- 👀 I’m interested in new technologys and i usually try to learn more thme 
 
 <!---
 Ardalan1380/Ardalan1380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
