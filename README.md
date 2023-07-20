@@ -38,8 +38,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-![TAILWIND](https://img.shields.io/badge/tailwindcss-0390AD?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<imf alt="tailwind" src="https://img.shields.io/badge/tailwindcss-0390AD?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<imf alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
   
