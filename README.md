@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://instagram.com/ardalan.barzanji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardalan.barzanji" height="30" width="40" /></a>
   
-  <a href="[t.me/](https://www.t.me/Ardalan_barzanji)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ardalan.barzanji" height="30" width="40" /></a>
-  
+<a href="https://t.me/weblax_ir">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
