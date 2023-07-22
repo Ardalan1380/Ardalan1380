@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.ardalanh.b8099@gmail.com&su=Subject">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=style=for-the-badge&logoColor=white"/>
+    <img style=`padding: 2rem` src="https://img.shields.io/badge/-Gmail-D14836?style=style=for-the-badge&logoColor=white"/>
   </a>
 <a href="https://instagram.com/ardalan.barzanji">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
