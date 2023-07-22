@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://wa.me/+98034710891?text=Hello!" target="blank">
-  <img alt="WhatsApp src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
 </p>
 
