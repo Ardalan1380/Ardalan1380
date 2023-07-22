@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.ardalanh.b8099@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ardalan.barzanji">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <imf alt="tailwind" src="https://img.shields.io/badge/tailwindcss-0390AD?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <imf alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Redux" src="https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC" />
 </p>
   
 
